@@ -1,0 +1,11 @@
+site_id,site,site_lat,site_lon,WL_station_id,WL_station_name,WL_distance_km,WL_distance_flag,WL_station_lat,WL_station_lon,HS_station_id,HS_station_name,HS_distance_km,HS_distance_flag,HS_station_lat,HS_station_lon
+01,Town of Beaufort,34.71822,-76.663817,8656483,"Beaufort, Duke Marine Lab, NC",0.64,False,34.7173,-76.6707,41159,"Onslow Bay Outer, NC",61.97,True,34.211,-76.944
+02,Down East Carteret County,34.75779,-76.528203,8656483,"Beaufort, Duke Marine Lab, NC",13.78,False,34.7173,-76.6707,41159,"Onslow Bay Outer, NC",71.76,True,34.211,-76.944
+03,Town of Kitty Hawk,36.06461,-75.705733,8651370,"Duck, NC",13.7,False,36.1833,-75.7467,44056,"Duck FRF, NC",15.07,False,36.2,-75.714
+04,Cape Carteret,34.69155,-77.063003,8656483,"Beaufort, Duke Marine Lab, NC",35.98,True,34.7173,-76.6707,41159,"Onslow Bay Outer, NC",54.54,True,34.211,-76.944
+05,Currituck County,36.41898,-75.946322,8651370,"Duck, NC",31.73,True,36.1833,-75.7467,44056,"Duck FRF, NC",32.04,False,36.2,-75.714
+06,Town of Swansboro,34.68766,-77.119114,8656483,"Beaufort, Duke Marine Lab, NC",41.12,True,34.7173,-76.6707,41159,"Onslow Bay Outer, NC",55.38,True,34.211,-76.944
+07,Town of Washington Park,35.53266,-77.03245,8656483,"Beaufort, Duke Marine Lab, NC",96.45,True,34.7173,-76.6707,44056,"Duck FRF, NC",140.07,True,36.2,-75.714
+08,Town of Windsor,35.99849,-76.946064,8651370,"Duck, NC",109.71,True,36.1833,-75.7467,44056,"Duck FRF, NC",112.94,True,36.2,-75.714
+09,Town of Duck,36.16503,-75.753558,8651370,"Duck, NC",2.12,False,36.1833,-75.7467,44056,"Duck FRF, NC",5.27,False,36.2,-75.714
+10,Town of Aurora,35.30544,-76.788542,8656483,"Beaufort, Duke Marine Lab, NC",66.27,True,34.7173,-76.6707,41159,"Onslow Bay Outer, NC",122.52,True,34.211,-76.944
